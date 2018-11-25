@@ -27,3 +27,7 @@ https://github.com/SnakeChunks/SnakeChunks
 
 uORF-Tools – Workflow for the determination of translation regulatory upstream open reading frames: 
 https://github.com/anibunny12/uORF-Tools
+
+
+pyflow-ChIPseq:
+https://github.com/crazyhottommy/pyflow-ChIPseq
