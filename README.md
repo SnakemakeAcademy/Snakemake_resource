@@ -16,6 +16,9 @@ https://snakemake.bitbucket.io/snakemake-tutorial.html
 
 https://wiki.chpc.utah.edu/display/~u0424091/Snakemake
 
+Analysis pipelines with Python: 
+https://hpc-carpentry.github.io/hpc-python/
+
 
 ## Examples:
 
@@ -31,3 +34,11 @@ https://github.com/anibunny12/uORF-Tools
 
 pyflow-ChIPseq:
 https://github.com/crazyhottommy/pyflow-ChIPseq
+
+
+Snakemake pipeline for shotgun data QC: 
+https://github.com/tanaes/snakemake_shotqual
+
+This has some examples of how to use qsub
+
+
