@@ -36,7 +36,7 @@ pyflow-ChIPseq:
 https://github.com/crazyhottommy/pyflow-ChIPseq
 
 
-Snakemake pipeline for shotgun data QC: 
+snakemake_shotqual: Snakemake pipeline for shotgun data QC: 
 https://github.com/tanaes/snakemake_shotqual
 
 This has some examples of how to use qsub
