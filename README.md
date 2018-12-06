@@ -42,3 +42,7 @@ https://github.com/tanaes/snakemake_shotqual
 This has some examples of how to use qsub
 
 
+### Snakemake implementation of the Drop-seq alignment pipeline proposed by the McCarroll lab.
+
+https://github.com/argschwind/dropseq_alignment_pipeline
+
