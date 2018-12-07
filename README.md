@@ -23,6 +23,9 @@ https://hpc-carpentry.github.io/hpc-python/
 
 KivyAcademy/SandwichesWithSnakemake
 
+## Reproducible Research using Snakemake
+ 
+https://molb7621.github.io/workshop/Classes/snakemake-tutorial.html#
 
 ## Examples:
 
