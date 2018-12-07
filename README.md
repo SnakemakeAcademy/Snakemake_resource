@@ -19,6 +19,10 @@ https://wiki.chpc.utah.edu/display/~u0424091/Snakemake
 Analysis pipelines with Python: 
 https://hpc-carpentry.github.io/hpc-python/
 
+## This is a beginner's tutorial to Snakemake
+
+KivyAcademy/SandwichesWithSnakemake
+
 
 ## Examples:
 
