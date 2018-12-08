@@ -53,3 +53,7 @@ This has some examples of how to use qsub
 
 https://github.com/argschwind/dropseq_alignment_pipeline
 
+### Snakemake 
+https://github.com/EichlerLab/sratools
+
+
