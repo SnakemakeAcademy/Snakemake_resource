@@ -42,6 +42,9 @@ https://github.com/anibunny12/uORF-Tools
 pyflow-ChIPseq:
 https://github.com/crazyhottommy/pyflow-ChIPseq
 
+dntap: 
+https://github.com/arnaudmeng/dntap
+
 
 snakemake_shotqual: Snakemake pipeline for shotgun data QC: 
 https://github.com/tanaes/snakemake_shotqual
